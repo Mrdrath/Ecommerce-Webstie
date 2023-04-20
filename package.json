@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "<h1 align=center>Ecommerce Website</h1> <p align=center>With this theme, you can easily create a Website site mainly for a e-commerce platform .</p> <h2 align=\"center\"><a target=\"_blank\" href=\"https://ecommerce-website-d8bf2.web.app/\">Demo</a> | <a  target=\"_blank\" href=\"https://pagespeed.web.dev/report?url=https%3A%2F%2Fecommerce-website-d8bf2.web.app%2F&form_factor=desktop\">Page Speed (94%)</a> </h2>",
+  "main": "script.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
