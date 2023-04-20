@@ -4,7 +4,7 @@
 
 
 <p align=center>
-  <a href="https://github.com/kaaditya0625/Ecommerce-website/blob/master/LICENSE">
+  <a
     <img src="https://img.shields.io/github/license/gethugothemes/restaurant-hugo" alt="license"></a>
 </p>
 
@@ -28,7 +28,7 @@ This responsive ecommerce website design for various pages such as Home, Shop, P
 
 ```bash
 # clone the repository
-git clone https://github.com/kaaditya0625/Ecommerce-website.git
+git clone https://github.com/Mrdrath/Ecommerce-Webstie.git
 
 # cd in the project directory
 $ cd Ecommerce-website/
@@ -41,16 +41,6 @@ $ npm start
 Deploy to [Firebase](https://cloud.google.com/firestore/docs/client/get-firebase)
 
 
-## Reporting Issues
-
-If your problem or idea has not been addressed yet, feel free to [share](kaaditya0625@gmail.com)
-
-<!-- licence -->
-## License
-
-Copyright &copy; Designed and Developed by [Aditya](www.linkedin.com/in/kaditya025)
-
-**Code License:** Released under the [MIT](https://github.com/kaaditya0625/Ecommerce-website/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to share those images.
 
